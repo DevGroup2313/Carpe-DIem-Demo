@@ -6,9 +6,17 @@ See LICENCE.txt. Every distributed copy carries a build marker.
 
 # Carpe Diem — the public sample, as a website
 
-**Build 1052, 18 October 2026.** The About panel ends with "1052 · 528171052 · Public sample". It HIDES the Backup button, as the public sample should. The committee demo keeps it.
+**Build 1053, 18 October 2026.** The About panel ends with "1053 · 528171053 · Public sample".
 
-**New in build 1052.** The supports have a page of their own, **Focus** (Concentration in French), on the bar beside Home,
+**New in build 1053.** Tabula keeps every part of a document when it saves itself or moves between windows: the
+footnotes, endnotes, bibliography, header, footer and contents now travel with the text into autosave, into a
+floating window or a window of its own, and back after a restart (before this, only the text did, and the notes
+were lost). If a document ever grows past what autosave can keep on the device, Tabula says so on the page and offers
+a copy as .docx or PDF, instead of stopping without a word. The thoughts panel now follows day and night while it is
+open, the Focus page uses the newest support module, and the mini Forge in the Author Studio holds only the Editor,
+Files and Settings, with no Tabula inside it. It HIDES the Backup button, as the public sample should. The committee demo keeps it.
+
+**New in build 1052, the build before.** The supports have a page of their own, **Focus** (Concentration in French), on the bar beside Home,
 laid out as Ingenium's Focus page is: Now, Steps (a task in small steps, one at a time, with a two-minute Just start),
 Time (the hour, the bar of the time left, and the Clepsydra), the Inbox, Calm (with a still, dim quiet screen and
 low-energy days), Routines, Today asks of you, and a switch for each support. Nothing of them sits on the Overview any
