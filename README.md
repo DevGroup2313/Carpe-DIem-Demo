@@ -6,9 +6,13 @@ See LICENCE.txt. Every distributed copy carries a build marker.
 
 # Carpe Diem — the public sample, as a website
 
-**Build 1056, 18 October 2026.** The About panel ends with "1056 · 528171056 · Public sample".
+**Build 1057, 19 October 2026.** The About panel ends with "1057 · 528171057 · Public sample".
 
-**New in build 1056.** In Tabula, a paragraph that meets the foot of a page runs on to the next one, at least
+**New in build 1057.** The mini Forge in the Author Studio is now The Forge 639 (it was The Forge 629), and it
+opens on this very build of Carpe Diem each time, not on an older copy kept from before. It still edits Carpe Diem
+alone. Shown inside it, Carpe Diem no longer warns that the device has no room left, which was not true there.
+
+**New in build 1056, the build before.** In Tabula, a paragraph that meets the foot of a page runs on to the next one, at least
 two lines on each side, as in Word, so no page ends in a blank gap; and a footnote is placed in a moment, even in a
 thesis, because only the pages it moves are laid out again (Inkwell 7.45's recipe). Tabula also keeps its raised
 pages and its notes key when it is opened on its own. Its footnotes now stand at the foot of the page that cites
@@ -17,7 +21,7 @@ room on the device: Tabula autosaves a document of up to 256 MB, and when the br
 full, Carpe Diem keeps its desk in the larger store and opens it from there. The tour's card on autosave describes
 the new pages, in English and French.
 
-**New in build 1055, the build before.** Tabula holds a thesis of 100,000 words, by Inkwell 7.44's recipe: a keystroke is
+**New in build 1055.** Tabula holds a thesis of 100,000 words, by Inkwell 7.44's recipe: a keystroke is
 answered at once, because only the pages an edit moves are laid out again, and a long document is kept in the
 browser's larger store (IndexedDB), so it is not lost when it outgrows the small one. The tour's card on autosave
 says so, in English and French. The mini Forge edits Carpe Diem alone: its Editor no longer offers the other apps.
