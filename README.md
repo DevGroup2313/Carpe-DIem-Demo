@@ -6,13 +6,18 @@ See LICENCE.txt. Every distributed copy carries a build marker.
 
 # Carpe Diem — the public sample, as a website
 
-**Build 1057, 19 October 2026.** The About panel ends with "1057 · 528171057 · Public sample".
+**Build 1058, 19 October 2026.** The About panel ends with "1058 · 528171058 · Public sample".
 
-**New in build 1057.** The mini Forge in the Author Studio is now The Forge 639 (it was The Forge 629), and it
+**New in build 1058.** The mini Forge in the Author Studio is now The Forge 641 (it was The Forge 639). It
+still opens on this very build of Carpe Diem each time and edits Carpe Diem alone. The app now shows its build
+number and stamp, with no date, and the Guide says so: every edition shares the stamp, and a demonstration adds
+its edition's name.
+
+**New in build 1057, the build before.** The mini Forge in the Author Studio is now The Forge 639 (it was The Forge 629), and it
 opens on this very build of Carpe Diem each time, not on an older copy kept from before. It still edits Carpe Diem
 alone. Shown inside it, Carpe Diem no longer warns that the device has no room left, which was not true there.
 
-**New in build 1056, the build before.** In Tabula, a paragraph that meets the foot of a page runs on to the next one, at least
+**New in build 1056.** In Tabula, a paragraph that meets the foot of a page runs on to the next one, at least
 two lines on each side, as in Word, so no page ends in a blank gap; and a footnote is placed in a moment, even in a
 thesis, because only the pages it moves are laid out again (Inkwell 7.45's recipe). Tabula also keeps its raised
 pages and its notes key when it is opened on its own. Its footnotes now stand at the foot of the page that cites
