@@ -7,11 +7,13 @@ distributed copy carries a build marker.
 
 # Carpe Diem — the public sample, as a website
 
-**Build 1073, 30 October 2026.** The About panel ends with "1073 · 528171073 · Public sample". It HIDES the Backup button, as the public sample should. The committee demo keeps it.
+**Build 1074, 30 October 2026.** The About panel ends with "1074 · 528171074 · Public sample". It HIDES the Backup button, as the public sample should. The committee demo keeps it.
 
 **A protected copy.** This page carries no tool that hands out Carpe Diem's code: no mini Forge and no Edit this app; its comments are gone and its scripts are compact; a mark at the foot of the screen gives its terms. Every right is reserved to the author.
 
-**New in build 1073.** No change in the browser: build 1073 is for the Mac and Windows apps (the rooms in windows of their own, on the Dock and the taskbar, with their own icons).
+**New in build 1074.** The loading page is the Forge's and Ingenium's own: Carpe Diem's seal in a ring that turns, its name and how much of the page is painted, in Carpe Diem's colours, by day and by night. A note's menu and keys are in French in French mode.
+
+**Earlier, in build 1073.** No change in the browser: build 1073 is for the Mac and Windows apps (the rooms in windows of their own, on the Dock and the taskbar, with their own icons).
 
 **Earlier, in build 1072.** A Word or PDF file dropped on the desk opens in Tabula through the full readers of File, Open.
 
