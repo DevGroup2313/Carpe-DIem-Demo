@@ -7,11 +7,13 @@ distributed copy carries a build marker.
 
 # Carpe Diem — the public sample, as a website
 
-**Build 1075, 30 October 2026.** The About panel ends with "1075 · 528171075 · Public sample". It HIDES the Backup button, as the public sample should. The committee demo keeps it.
+**Build 1076, 31 October 2026.** The About panel ends with "1076 · 528171076 · Public sample". It HIDES the Backup button, as the public sample should. The committee demo keeps it.
 
 **A protected copy.** This page carries no tool that hands out Carpe Diem's code: no mini Forge and no Edit this app; its comments are gone and its scripts are compact; a mark at the foot of the screen gives its terms. Every right is reserved to the author.
 
-**New in build 1075.** The Home overview is redesigned in cream, light-blue, sage and butter cards: today with its parts of the day, today's energy with the next task on the Agenda and Begin, Ascensus, reading and streak, and French, by day and by night.
+**New in build 1076.** The Home overview now has the app's raised 3D feel: its keys rise under the pointer and sink when pressed, its cards lift, and its rings and bars fill in, by day and by night.
+
+**Earlier, in build 1075.** The Home overview is redesigned in cream, light-blue, sage and butter cards: today with its parts of the day, today's energy with the next task on the Agenda and Begin, Ascensus, reading and streak, and French, by day and by night.
 
 **Earlier, in build 1074.** The loading page is the Forge's and Ingenium's own: Carpe Diem's seal in a ring that turns, its name and how much of the page is painted, in Carpe Diem's colours, by day and by night. A note's menu and keys are in French in French mode.
 
