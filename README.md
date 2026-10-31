@@ -7,11 +7,13 @@ distributed copy carries a build marker.
 
 # Carpe Diem — the public sample, as a website
 
-**Build 1078, 31 October 2026.** The About panel ends with "1078 · 528171078 · Public sample". It HIDES the Backup button, as the public sample should. The committee demo keeps it.
+**Build 1079, 31 October 2026.** The About panel ends with "1079 · 528171079 · Public sample". It HIDES the Backup button, as the public sample should. The committee demo keeps it.
 
 **A protected copy.** This page carries no tool that hands out Carpe Diem's code: no mini Forge and no Edit this app; its comments are gone and its scripts are compact; a mark at the foot of the screen gives its terms. Every right is reserved to the author.
 
-**New in build 1078.** Home's tabs are compact, at the left of the row above Home, and Offline by design is a cream card. Assessments and Ascensus are redesigned in the Overview's look, with calm lists for Records and Marks, and every Ascensus course has its own number.
+**New in build 1079.** Ascensus has its neon lights back, in its new design. The Guidebook has a one-minute film of the app at work, with captions and no sound, in a calm player: nothing plays until asked, it can be slowed, jumped through by scene or read instead. The tour offers it too.
+
+**Earlier, in build 1078.** Home's tabs are compact, at the left of the row above Home, and Offline by design is a cream card. Assessments and Ascensus are redesigned in the Overview's look, with calm lists for Records and Marks, and every Ascensus course has its own number.
 
 **Earlier, in build 1077.** The Librarian's and Magister's conversations have a new look: Ingenium's chat in Carpe Diem's colours, in three looks chosen from the ⋯ menu (Carpe Diem, Soft, Clean), by day and by night, each message with its own keys. Home is no longer empty on a low-energy day: it shows the low day's own card, with Show everything again.
 
