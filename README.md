@@ -7,11 +7,13 @@ distributed copy carries a build marker.
 
 # Carpe Diem — the public sample, as a website
 
-**Build 1076, 31 October 2026.** The About panel ends with "1076 · 528171076 · Public sample". It HIDES the Backup button, as the public sample should. The committee demo keeps it.
+**Build 1077, 31 October 2026.** The About panel ends with "1077 · 528171077 · Public sample". It HIDES the Backup button, as the public sample should. The committee demo keeps it.
 
 **A protected copy.** This page carries no tool that hands out Carpe Diem's code: no mini Forge and no Edit this app; its comments are gone and its scripts are compact; a mark at the foot of the screen gives its terms. Every right is reserved to the author.
 
-**New in build 1076.** The Home overview now has the app's raised 3D feel: its keys rise under the pointer and sink when pressed, its cards lift, and its rings and bars fill in, by day and by night.
+**New in build 1077.** The Librarian's and Magister's conversations have a new look: Ingenium's chat in Carpe Diem's colours, in three looks chosen from the ⋯ menu (Carpe Diem, Soft, Clean), by day and by night, each message with its own keys. Home is no longer empty on a low-energy day: it shows the low day's own card, with Show everything again.
+
+**Earlier, in build 1076.** The Home overview now has the app's raised 3D feel: its keys rise under the pointer and sink when pressed, its cards lift, and its rings and bars fill in, by day and by night.
 
 **Earlier, in build 1075.** The Home overview is redesigned in cream, light-blue, sage and butter cards: today with its parts of the day, today's energy with the next task on the Agenda and Begin, Ascensus, reading and streak, and French, by day and by night.
 
