@@ -7,11 +7,13 @@ distributed copy carries a build marker.
 
 # Carpe Diem — the public sample, as a website
 
-**Build 1080, 1 November 2026.** The About panel ends with "1080 · 528171080 · Public sample". It HIDES the Backup button, as the public sample should. The committee demo keeps it.
+**Build 1081, 1 November 2026.** The About panel ends with "1081 · 528171081 · Public sample". It HIDES the Backup button, as the public sample should. The committee demo keeps it.
 
 **A protected copy.** This page carries no tool that hands out Carpe Diem's code: no mini Forge and no Edit this app; its comments are gone and its scripts are compact; a mark at the foot of the screen gives its terms. Every right is reserved to the author.
 
-**New in build 1080.** By night the little cards that name a key are solid and easy to read. The side keys stay with the Librarian's conversation. Every Fontes key carries Fontes's drawing. Offline by design is white acrylic in Classic and stays tan in Folio.
+**New in build 1081.** The Guidebook's film is sharp, filmed at twice the resolution, and its side keys are drawn by your own device, so on a Mac they are Apple's. Day and night reach a room's own window at once.
+
+**Earlier, in build 1080.** By night the little cards that name a key are solid and easy to read. The side keys stay with the Librarian's conversation. Every Fontes key carries Fontes's drawing. Offline by design is white acrylic in Classic and stays tan in Folio.
 
 **Earlier, in build 1079.** Ascensus has its neon lights back, in its new design. The Guidebook has a one-minute film of the app at work, with captions and no sound, in a calm player: nothing plays until asked, it can be slowed, jumped through by scene or read instead. The tour offers it too.
 
